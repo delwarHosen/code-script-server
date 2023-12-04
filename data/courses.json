@@ -1,0 +1,652 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+         "technology": [
+            {
+                "id": 1,
+                "name": "React"
+            },
+            {
+                "id": 2,
+                "name": "React Native"
+            },
+            {
+                "id": 3,
+                "name": "JavaScript"
+            },
+            {
+                "id": 4,
+                "name": "JSX"
+            },
+            {
+                "id": 5,
+                "name": "Native Modules"
+            },
+            {
+                "id": 6,
+                "name": "Redux"
+            }
+        ],
+        "category_id": "1",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": " React Native for Android App",
+        "price": 10500,
+        "duration": "10",
+        "author": {
+            "name": "Faizan Parvez",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://i.ibb.co/jg2k8zq/fizan-Parvez.jpg"
+        },
+        "thumbnail_url": "https://i.ibb.co/F5DMV0b/react-Native.jpg",
+        "image_url": "https://i.ibb.co/F5DMV0b/react-Native.jpg",
+        "details": "React Native is an open-source framework for building mobile applications using JavaScript and React. It allows developers to use React, a popular JavaScript library for building user interfaces, to create native mobile applications for iOS and Android platforms."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "technology": [
+            {
+                "id": 1,
+                "name": "Dart"
+            },
+            {
+                "id": 2,
+                "name": "Flutter Framework"
+            },
+            {
+                "id": 3,
+                "name": "Async Programming"
+            },
+            {
+                "id": 4,
+                "name": "SQLite"
+            },
+            {
+                "id": 5,
+                "name": "Firebase"
+            },
+            {
+                "id": 6,
+                "name": "Flutter Packages"
+            }
+        ],
+        "category_id": "1",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Flutter for Android App",
+        "price": 9500,
+        "duration": "10",
+        "author": {
+            "name": "Muhammad Hamza",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://i.ibb.co/3CCw2PW/hamja.jpg"
+        },
+        "thumbnail_url": "https://i.ibb.co/zrdFrHc/flutter.jpg",
+        "image_url": "https://i.ibb.co/zrdFrHc/flutter.jpg",
+        "details": "Flutter is an open-source UI software development toolkit created by Google. It is used to build natively compiled applications for mobile, web, and desktop from a single codebase. Here are some key details about Flutter"
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "technology": [
+            {
+                "id": 1,
+                "name": "Swift Programming Language"
+            },
+            {
+                "id": 2,
+                "name": "iOS Development"
+            },
+            {
+                "id": 3,
+                "name": "Cocoa Touc"
+            },
+            {
+                "id": 4,
+                "name": "macOS Development"
+            },
+            {
+                "id": 5,
+                "name": "SwiftUI"
+            },
+            {
+                "id": 6,
+                "name": "tvOS Development"
+            }
+        ],
+        "category_id": "1",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Swift (iOS) for Android",
+        "price": 7000,
+        "duration": "One Year",
+        "author": {
+            "name": "Bishal Sharma",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://i.ibb.co/NSqBX7Z/download.jpg"
+        },
+        "thumbnail_url": "https://i.ibb.co/G0LmsZz/swift.jpg",
+        "image_url": "https://i.ibb.co/G0LmsZz/swift.jpg",
+        "details": "Swift is a programming language developed by Apple Inc. for building iOS, macOS, watchOS, and tvOS applications. Here are some key details about Swift and iOS development. Swift is the preferred language for developing iOS applications, replacing Objective-C as the primary language for iOS development.UIKit is the core framework for building user interfaces in iOS applications. It provides a set of components and tools for creating graphical user interfaces."
+    },
+    {
+        "_id": "7c4dfea0fafddc813673282a428429b7",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "technology": [
+            {
+                "id": 1,
+                "name": "Kotlin Programming Language"
+            },
+            {
+                "id": 2,
+                "name": "Android Development with Kotlin"
+            },
+            {
+                "id": 3,
+                "name": "Kotlin Coroutines"
+            },
+            {
+                "id": 4,
+                "name": "Kotlin Standard Library"
+            },
+            {
+                "id": 5,
+                "name": "Data Binding"
+            },
+            {
+                "id": 6,
+                "name": "Room Database"
+            }
+        ],
+        "category_id": "1",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": " Kotlin for Android App",
+        "price": 8500,
+        "duration": "10",
+        "author": {
+            "name": "Jay Tillu",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://i.ibb.co/YWLHN93/download-1.jpg"
+        },
+        "thumbnail_url": "https://i.ibb.co/4sJF6TM/images.jpg",
+        "image_url": "https://i.ibb.co/4sJF6TM/images.jpg",
+        "details": "Certainly! Kotlin is a statically-typed programming language developed by JetBrains, a software development company based in Russia. Here are some key details about Kotlin.Kotlin is a statically typed language, which means that variable types are determined at compile time.Kotlin is designed to be concise, reducing boilerplate code and making it more expressive than Java"
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "technology": [
+            {
+                "id": 1,
+                "name": "HTML"
+            },
+            {
+                "id": 2,
+                "name": "CSS"
+            },
+            {
+                "id": 3,
+                "name": "CSS Library"
+            },
+            {
+                "id": 4,
+                "name": "Javascript"
+            },
+            {
+                "id": 5,
+                "name": "React Js"
+            },
+            {
+                "id": 6,
+                "name": "Firebase"
+            }
+        ],
+        "category_id": "2",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 546,
+        "title": "Frontend Development for Web",
+        "price": 3500,
+        "duration": "5",
+        "author": {
+            "name": "Delwar Hosen",
+            "published_date": "2022-08-30 22:00:00",
+            "img": "https://i.ibb.co/prJSKJS/delwar.png"
+        },
+        "thumbnail_url": "https://i.ibb.co/7kYQ8QP/pp4ll13f5onw4gqj8ggl.webp",
+        "image_url": "https://i.ibb.co/7kYQ8QP/pp4ll13f5onw4gqj8ggl.webp",
+        "details": "Frontend development refers to the process of building the user interface (UI) and user experience (UX) of a website or web application. It involves designing and implementing the visual elements that users interact with directly. Here are some key details about frontend development:"
+    },
+    {
+        "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "technology": [
+            {
+                "id": 1,
+                "name": "HTML"
+            },
+            {
+                "id": 2,
+                "name": "CSS"
+            },
+            {
+                "id": 3,
+                "name": "React Js"
+            },
+            {
+                "id": 4,
+                "name": "Node Js"
+            },
+            {
+                "id": 5,
+                "name": "Express JS"
+            },
+            {
+                "id": 6,
+                "name": "Mongo DB"
+            }
+        ],
+        "category_id": "2",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 546,
+        "title": "MERN Stack for Web",
+        "price": 5000,
+        "duration": "8",
+        "author": {
+            "name": "Pranto Das",
+            "published_date": "2022-08-30 22:00:00",
+            "img": "https://i.ibb.co/vB50hdH/pranto.png"
+        },
+        "thumbnail_url": "https://i.ibb.co/1f1KSkn/MERN.webp",
+        "image_url": "https://i.ibb.co/1f1KSkn/MERN.webp",
+        "details": "The MERN stack is a popular and powerful technology stack for building full-stack web applications. MERN stands for MongoDB, Express.js, React.js, and Node.js—four technologies that work together seamlessly to provide an end-to-end framework for web development. Here are the details of each component in the MERN stack:"
+    },
+    {
+        "_id": "1b03149c50f1bec662062d930bf46489",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "technology": [
+            {
+                "id": 1,
+                "name": "Python"
+            },
+            {
+                "id": 2,
+                "name": "DJango "
+            },
+            {
+                "id": 3,
+                "name": "React Js"
+            },
+            {
+                "id": 4,
+                "name": "Node Js"
+            },
+            {
+                "id": 5,
+                "name": "Express JS"
+            },
+            {
+                "id": 6,
+                "name": "Mongo DB"
+            }
+        ],
+        "category_id": "2",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 546,
+        "title": "FULL Stack Development for Web",
+        "price": 5500,
+        "duration": "10",
+        "author": {
+            "name": "Showaib Bin Nasir",
+            "published_date": "2022-08-30 22:00:00",
+            "img": "https://i.ibb.co/JCPSCBd/showeb.png"
+        },
+        "thumbnail_url": "https://i.ibb.co/BtgBgHs/full.jpg",
+        "image_url": "https://i.ibb.co/BtgBgHs/full.jpg",
+        "details": "Full-stack development involves working on both the frontend (client-side) and the backend (server-side) of a web application. A full-stack developer is someone who has the skills and knowledge to work on both ends of the application, handling tasks ranging from user interface design to server management. Here are the key details about full-stack development"
+    },
+    {
+        "_id": "a713ee936ff5574273f0f769f5c5b20e",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "technology": [
+            {
+                "id": 1,
+                "name": "Adobe Creative Cloud"
+            },
+            {
+                "id": 2,
+                "name": "Adobe Photoshop"
+            },
+            {
+                "id": 3,
+                "name": "Adobe Illustrator"
+            },
+            {
+                "id": 4,
+                "name": "Adobe InDesign"
+            },
+            {
+                "id": 5,
+                "name": "Brand Guidelines"
+            },
+            {
+                "id": 6,
+                "name": "3D Modeling"
+            }
+        ],
+        "category_id": "3",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Visual Identity Graphic Design & Motion Graphic Design",
+        "price": 4500,
+        "duration": "4",
+        "author": {
+            "name": "Sharif Samad",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://i.ibb.co/tJq04Gs/samad.png"
+        },
+        "thumbnail_url": "https://i.ibb.co/jbq9Y6V/949207101753661-5f26821acf7cc.jpg",
+        "image_url": "https://i.ibb.co/jbq9Y6V/949207101753661-5f26821acf7cc.jpg",
+        "details": "Both Visual Identity Graphic Design and Motion Graphic Design play crucial roles in building a brand's visual presence and creating captivating visual experiences. While Visual Identity focuses on static elements to build a consistent brand image, Motion Graphics bring designs to life through animation, adding a dynamic and interactive dimension to visual communication."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "technology": [
+            {
+                "id": 1,
+                "name": "User Research"
+            },
+            {
+                "id": 2,
+                "name": "Persona Creation"
+            },
+            {
+                "id": 3,
+                "name": "User Journey Mapping"
+            },
+            {
+                "id": 4,
+                "name": "Information Architecture"
+            },
+            {
+                "id": 5,
+                "name": "User Experience (UX) Design"
+            },
+            {
+                "id": 6,
+                "name": "User Interface (UI) Design"
+            }
+        ],
+        "category_id": "3",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "UI/UX Design",
+        "price": 3500,
+        "duration": "3",
+        "author": {
+            "name": "Showaib Bin Nasir",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://i.ibb.co/JCPSCBd/showeb.png"
+        },
+        "thumbnail_url": "https://i.ibb.co/bQYjVWH/949207101753661-5f26821acf7cc.jpg",
+        "image_url": "https://i.ibb.co/bQYjVWH/949207101753661-5f26821acf7cc.jpg",
+        "details": "UI (User Interface) design and UX (User Experience) design are two interrelated but distinct aspects of the design process that focus on creating a positive and seamless interaction between users and a product. Let's delve into their descriptions."
+    },
+    {
+        "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": false
+        },
+        "technology": [
+            {
+                "id": 1,
+                "name": "Python"
+            },
+            {
+                "id": 2,
+                "name": "Support Vector Machines (SVM)"
+            },
+            {
+                "id": 3,
+                "name": "Confusion Matrix"
+            },
+            {
+                "id": 4,
+                "name": "Random Forest"
+            },
+            {
+                "id": 5,
+                "name": "Support Vector Machines (SVM)"
+            },
+            {
+                "id": 6,
+                "name": "K-Nearest Neighbors (KNN)"
+            }
+        ],
+        "category_id": "4",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 733,
+        "title": "Supervised Machine Learning",
+        "price": 9990,
+        "duration": "14",
+        "author": {
+            "name": "Showeb Bin Nasir",
+            "published_date": "2022-08-25 06:03:00",
+            "img": "https://i.ibb.co/JCPSCBd/showeb.png"
+        },
+        "thumbnail_url": "https://i.ibb.co/GvY6r3S/supervised.png",
+        "image_url": "https://i.ibb.co/GvY6r3S/supervised.png",
+        "details": "Supervised machine learning (ML) is a type of machine learning where an algorithm is trained on a labeled dataset, which means that the input data used for training is paired with corresponding output labels. The goal of supervised learning is to learn a mapping from inputs to outputs, allowing the model to make predictions or classifications on new, unseen data. Here are the key components and concepts associated with supervised machine learning."
+    },
+    {
+        "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+        "others_info": {
+            "is_todays_pick": true,
+            "is_trending": false
+        },
+        "technology": [
+            {
+                "id": 1,
+                "name": "Python"
+            },
+            {
+                "id": 2,
+                "name": "Deep Neural Networks (DNN)"
+            },
+            {
+                "id": 3,
+                "name": "Convolutional Neural Networks (CNN)"
+            },
+            {
+                "id": 4,
+                "name": "Random Forest"
+            },
+            {
+                "id": 5,
+                "name": "Support Vector Machines (SVM)"
+            },
+            {
+                "id": 6,
+                "name": "Recurrent Neural Networks (RNN)"
+            }
+        ],
+        "category_id": "4",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 733,
+        "title": "DEEP Learning",
+        "price": 10990,
+        "duration": "18",
+        "author": {
+            "name": "Sharif Samad",
+            "published_date": "2022-08-25 06:03:00",
+            "img": "https://i.ibb.co/tJq04Gs/samad.png"
+        },
+        "thumbnail_url": "https://i.ibb.co/rbdDBvP/deep.jpg",
+        "image_url": "https://i.ibb.co/rbdDBvP/deep.jpg",
+        "details": "Deep learning is a subfield of machine learning (ML) that focuses on the development and application of neural networks, particularly artificial neural networks with multiple layers (deep neural networks). The term 'deep' refers to the depth of the neural network, which consists of multiple layers of interconnected nodes, also known as neurons. Deep learning has demonstrated remarkable success in various domains, particularly in tasks involving complex patterns, large datasets, and high-dimensional data."
+    },
+    {
+        "_id": "f06f8cc035b04bd1158e4198281915a3",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "technology": [
+            {
+                "id": 1,
+                "name": "PHP"
+            },
+            {
+                "id": 2,
+                "name": "WordPress CMS"
+            },
+            {
+                "id": 3,
+                "name": "JavaScript"
+            },
+            {
+                "id": 4,
+                "name": "Gutenberg Editor"
+            },
+            {
+                "id": 5,
+                "name": "Plugin Development"
+            },
+            {
+                "id": 6,
+                "name": "Theme Development"
+            }
+        ],
+        "category_id": "5",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 127,
+        "title": "Wordpress Development",
+        "price": 3990,
+        "duration": "6",
+        "author": {
+            "name": "Ukrainska Pravda",
+            "published_date": "2022-08-25 18:53:49",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/DY8T6xh/wordpress.png",
+        "image_url": "https://i.ibb.co/DY8T6xh/wordpress.png",
+        "details": "WordPress is a popular and widely used open-source content management system (CMS) that allows users to create and manage websites and blogs with ease. It is known for its flexibility, user-friendly interface, and a vast ecosystem of themes and plugins. Here are key components and features associated with WordPress"
+    },
+    {
+        "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "technology": [
+            {
+                "id": 1,
+                "name": "Search Engine Optimization (SEO)"
+            },
+            {
+                "id": 2,
+                "name": "Search Engine Marketing (SEM)"
+            },
+            {
+                "id": 3,
+                "name": "Content Marketing"
+            },
+            {
+                "id": 4,
+                "name": "Marketing Automation"
+            },
+            {
+                "id": 5,
+                "name": "Google Ads"
+            },
+            {
+                "id": 6,
+                "name": "TGoogle Analytics"
+            }
+        ],
+        "category_id": "7",
+        "rating": {
+            "number": 4.2,
+            "badge": "Excellent"
+        },
+        "total_view": 354,
+        "title": "Digital Marketing",
+        "price": 3000,
+        "duration": "4",
+        "author": {
+            "name": "Presstv",
+            "published_date": "2022-08-30 17:44:16",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/G9t5fYb/digital.jpg",
+        "image_url": "https://i.ibb.co/G9t5fYb/digital.jpg",
+        "details": "Digital marketing is a broad term that encompasses various online strategies and techniques used to promote products, services, or brands through digital channels. It leverages the power of the internet and digital technologies to reach and engage with a target audience. Digital marketing involves a range of activities aimed at building brand awareness, driving website traffic, generating leads, and ultimately, converting leads into customers. Here are key components and strategies associated with digital marketing"
+    }
+]

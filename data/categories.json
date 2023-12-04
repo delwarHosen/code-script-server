@@ -1,34 +1,34 @@
 [
     {
-        "id": "0",
+        "id": 0,
         "name": "All Courses"
     },
     {
-        "id": "1",
+        "id": 1,
         "name": "Android App Development"
     },
     {
-        "id": "2",
+        "id": 2,
         "name": "Web Development"
     },
     {
-        "id": "3",
+        "id": 3,
         "name": "Graphic Design"
     },
     {
-        "id": "4",
+        "id": 4,
         "name": "Machine Learning"
     },
     {
-        "id": "5",
+        "id": 5,
         "name": "Wordpress Development"
     },
     {
-        "id": "6",
+        "id": 6,
         "name": "IOS"
     },
     {
-        "id": "7",
+        "id": 7,
         "name": "Digital Marketing"
     }
 ]
